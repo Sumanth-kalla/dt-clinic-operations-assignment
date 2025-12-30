@@ -57,6 +57,17 @@ The purpose of these checks is not punishment but awareness. When mismatches are
 - Daily audit time limited to 5–10 minutes
 - Minimal involvement required from the doctor
 
+## Assumptions
+- Small to medium-sized clinic
+- Manual medicine and patient data entry
+- Limited staff and high OPD load
+- Doctor time is the most constrained resource
+
+## Conclusion
+Both systems are designed to introduce visibility, discipline, and control
+without increasing operational burden. The focus is on reducing chaos,
+preventing revenue leakage, and protecting doctor attention using simple,
+scalable processes.
 
 
 
